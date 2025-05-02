@@ -1,0 +1,14 @@
+#Reset {
+  font-size: 1.25rem;
+  width: 5rem;
+  margin: 1rem auto 0.5rem auto;
+  border: 0.125rem solid hsl(0, 0%, 100%);
+  border-radius: 0.25rem;
+  cursor: pointer;
+  transition: color 0.125s, background-color 0.125s;
+}
+
+#Reset:hover {
+  color: hsl(0, 0%, 10%);
+  background-color: hsl(0, 0%, 100%);
+}
